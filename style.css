@@ -45,6 +45,8 @@ body {
 }
 
 .timer {
+    display: flex;
+    gap: 1.3rem;
     border: 1px solid;
     padding-left: 1rem;
     padding-right: 1rem;
